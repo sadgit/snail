@@ -1,6 +1,8 @@
 ## Lowering your 2cv
 
 Lowering a 2cv is dead easy - just slacken the suspension tie-rods until:
+
+NOTE: The car should be jacked up before adjusting the tie-rods
 1. It comes out altogether and the car falls the floor
 1. The car sits on its bump stops
 1. You get the height you prefer
